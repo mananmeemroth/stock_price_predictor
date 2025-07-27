@@ -1,8 +1,8 @@
-tensorflow-macos
-tensorflow-metal
-keras
-city
-toml
-tornado
-typing-extensions
+streamlit
 yfinance
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+keras
