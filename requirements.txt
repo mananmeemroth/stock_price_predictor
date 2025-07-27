@@ -1,0 +1,8 @@
+tensorflow-macos
+tensorflow-metal
+keras
+city
+toml
+tornado
+typing-extensions
+yfinance
